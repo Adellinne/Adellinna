@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adellinna
+- 👋 Hi, I’m @Adelina
 - 👀 I’m interested in studying and personal improvement
 - 🌱 I’m currently learning Computer Science and Technology Information on University of Craiova, on Computer Science Department
 - 💞️ I’m looking to collaborate on everything should help me to learn more about Software Development.
